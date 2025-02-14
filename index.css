@@ -53,3 +53,18 @@ body {
 .para2 {
     margin-top: 20px;
 }
+
+footer {
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    background-image: linear-gradient(to right,  #3C3D37, white, #3C3D37);
+    text-align: center;
+}
+
+.love {
+    padding: 15px;
+    color: #3C3D37;
+    font-weight: 900;
+    letter-spacing: 1.5px;
+}
